@@ -1,5 +1,12 @@
 name: Generate Snake
 
+# --- Add this permissions block ---
+permissions:
+  contents: write # Crucial permission needed to push the snake SVG
+  pages: write
+  id-token: write
+# ---------------------------------
+
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC

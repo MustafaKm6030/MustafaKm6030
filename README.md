@@ -28,4 +28,4 @@ const me = new Softwareentwickler({
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaKm6030/MustafaKm6030/output/github-contribution-grid-snake.svg" />
     <img alt="github snake" src="https://raw.githubusercontent.com/MustafaKm6030/MustafaKm6030/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</div> 

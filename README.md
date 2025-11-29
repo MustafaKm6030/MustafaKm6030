@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="left">
+  
+```javascript
+import { Softwareentwickler } from "Careers";
 
-<!--
-**MustafaKm6030/MustafaKm6030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const me = new Softwareentwickler({
+  name: "Mustafa Khalid",
+  currentOccupation: "Senior AI - Software Developer | Open to opportunities in Germany",
+  university: "Msc AI Engineering at University of Passau",
+  location: "Munich, Germany",
+  skills: {
+    languages: ["Python", "JavaScript", "C#", "SQL"],
+    frameworks: {
+      frontend: ["React", "Next.js", "TailwindCSS", "Angular"],
+      backend: ["Django","Node.js", "ASP.NET Core", "Spring Boot"],
+      AI: ["PyTorch", "TensorFlow","Scikit-learn", "Hugging Face Transformers", "LangChain"]
+    },
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "MS-SQL"],
+    tools: [ "Git", "Docker", "Kubernetes", "AWS/Azure/GCP"],
+  },
+  interests: ["Clean Architecture", "Cyber Security", "Artificial Intelligence"],
+});
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

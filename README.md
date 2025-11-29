@@ -21,3 +21,11 @@ const me = new Softwareentwickler({
   interests: ["Clean Architecture", "Cyber Security", "Artificial Intelligence"],
 });
 
+<div align="center">
+  <h3>My GitHub Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustafaKm6030/MustafaKm6030/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaKm6030/MustafaKm6030/output/github-contribution-grid-snake.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/MustafaKm6030/MustafaKm6030/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>

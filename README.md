@@ -12,7 +12,7 @@ const me = new Softwareentwickler({
     languages: ["Python", "JavaScript", "C#", "SQL"],
     frameworks: {
       frontend: ["React", "Next.js", "TailwindCSS", "Angular"],
-      backend: ["Django","Node.js", "ASP.NET Core", "Spring Boot"],
+      backend: ["Django", "FastAPI", "Flask", "Node.js", "ASP.NET Core", "Spring Boot"],
       AI: ["PyTorch", "TensorFlow","Scikit-learn", "Hugging Face Transformers", "LangChain"]
     },
     databases: ["PostgreSQL", "MongoDB", "MySQL", "MS-SQL"],

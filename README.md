@@ -5,15 +5,16 @@ import { Softwareentwickler } from "Careers";
 
 const me = new Softwareentwickler({
   name: "Mustafa Khalid",
-  currentOccupation: "Senior AI - Software Developer | Open to opportunities in Germany",
+  currentOccupation: "Senior AI - Engineer | Open to opportunities in Germany",
   university: "Msc AI Engineering at University of Passau",
   location: "Munich, Germany",
   skills: {
-    languages: ["Python", "JavaScript", "C#", "SQL"],
+    languages: ["Python", "JavaScript", "C#", "SQL", "C++", "Java"],
     frameworks: {
       frontend: ["React", "Next.js", "TailwindCSS", "Angular"],
       backend: ["Django", "FastAPI", "Flask", "Node.js", "ASP.NET Core", "Spring Boot"],
-      AI: ["PyTorch", "TensorFlow","Scikit-learn", "Hugging Face Transformers", "LangChain"]
+      AI: ["PyTorch", "TensorFlow","Scikit-learn", "Hugging Face Transformers", "LangChain", "LangGrapgh", "Pydantic AI"],
+      DataOps: ["PySpark", "DataBricks"]
     },
     databases: ["PostgreSQL", "MongoDB", "MySQL", "MS-SQL"],
     tools: [ "Git", "Docker", "Kubernetes", "AWS/Azure/GCP"],
